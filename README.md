@@ -1,2 +1,2 @@
-# Turn-Based-Python
-Sekedar Game Turn-Based biasa tanpa menggunakan frontend (hanya backend) menggunakan bahasa Python
+# Game lain-lain
+Beberapa game biasa yang pernah saya buat ketika saya senggang (sebelum mempelajari unity)
